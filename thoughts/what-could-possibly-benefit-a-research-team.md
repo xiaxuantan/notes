@@ -1,3 +1,5 @@
+# What could possibly benefit a research team?
+
 I feel extremely deflated and fatigued at the moment. Clearly, four hours of sleep is not enough for me to recover from staying up late. Last night I helped a research team with some experiments and worked until 3. Though, the research team failed to meet the deadline and decide to make it to the next conference.
 
 I am not a member of this team but it's heartbreaking to see their effort squandered. A lot of things did not go well in the process and many were from the algorithm implementation from my perspective. Frankly, I had very few experiences working as a researcher but as a software engineer who suffered from shitty code in the past few years, I definitely know how difficult it is to get a poorly implemented running.
