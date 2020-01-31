@@ -1,3 +1,5 @@
+# Brief introduction to KMP
+
 - **What is KMP used for?**
 
   KMP is used for handling string matching and relative problems. The basic form is to detect whether a pattern "p" is a substring of a give string "s". If so, find out the index of the starting character in "s".
