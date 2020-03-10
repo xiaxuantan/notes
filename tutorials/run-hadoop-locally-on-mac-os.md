@@ -1,3 +1,5 @@
+# Run Hadoop locally on Mac OS
+
 I've installed Hadoop for countless times. Still, I forgot some very basic configurations. Here I try to write down some key steps so that this process can be reproduced. This includes very few actions to take and hopefully, everyone can get started by following these steps. And of course, it is just for running toy models locally. It can be much more complicated if you are setting up a cluster in production environment.
 
 ## Manage Java/Hadoop with Homebrew
